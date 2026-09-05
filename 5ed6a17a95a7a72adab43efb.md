@@ -2,7 +2,7 @@
 webflow_id: 5ed6a17a95a7a72adab43efb
 title: Ginecologia e Obstetrícia
 slug: ginecologia-e-obstetricia
-last_updated: 2020-07-29T21:11:43.400Z
+last_updated: 2026-09-05T01:29:57.686Z
 ---
 
 # Ginecologia e Obstetrícia
